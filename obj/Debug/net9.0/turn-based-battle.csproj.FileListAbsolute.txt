@@ -1,0 +1,14 @@
+F:\Projects\turn-based-battle\bin\Debug\net9.0\turn-based-battle.exe
+F:\Projects\turn-based-battle\bin\Debug\net9.0\turn-based-battle.deps.json
+F:\Projects\turn-based-battle\bin\Debug\net9.0\turn-based-battle.runtimeconfig.json
+F:\Projects\turn-based-battle\bin\Debug\net9.0\turn-based-battle.dll
+F:\Projects\turn-based-battle\bin\Debug\net9.0\turn-based-battle.pdb
+F:\Projects\turn-based-battle\obj\Debug\net9.0\turn-based-battle.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\turn-based-battle\obj\Debug\net9.0\turn-based-battle.AssemblyInfoInputs.cache
+F:\Projects\turn-based-battle\obj\Debug\net9.0\turn-based-battle.AssemblyInfo.cs
+F:\Projects\turn-based-battle\obj\Debug\net9.0\turn-based-battle.csproj.CoreCompileInputs.cache
+F:\Projects\turn-based-battle\obj\Debug\net9.0\turn-based-battle.dll
+F:\Projects\turn-based-battle\obj\Debug\net9.0\refint\turn-based-battle.dll
+F:\Projects\turn-based-battle\obj\Debug\net9.0\turn-based-battle.pdb
+F:\Projects\turn-based-battle\obj\Debug\net9.0\turn-based-battle.genruntimeconfig.cache
+F:\Projects\turn-based-battle\obj\Debug\net9.0\ref\turn-based-battle.dll
